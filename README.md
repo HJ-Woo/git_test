@@ -1,5 +1,5 @@
 # git_test
-git test용 저장소
+git test를 진행하는 저장소
 
 
 ### Merge test
